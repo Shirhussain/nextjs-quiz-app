@@ -6,7 +6,7 @@ these steps:
 1. Clone the repository to your local machine.
 
 ```bash
-git@github.com:your-username/nextjs-quiz-app.git
+git@github.com:Shirhussain/nextjs-quiz-app.git
 ```
 
 2. Open the cloned folder in your preferred code editor, install the required
